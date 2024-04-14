@@ -1,0 +1,23 @@
+﻿@using ChickenGang_Project.Models;
+@model IEnumerable<SanPham>
+
+
+@{
+    ViewBag.Title = "HotPick";
+    Layout = null;
+}
+
+
+@{
+    IEnumerable<SanPham> listHot = (IEnumerable<SanPham>)ViewBag.listHot;
+}
+
+
+<div class="resp-tabs-container" style="margin-top:30px">
+    <center><h2>Sản Phẩm Bán Chạy</h2></center>
+    <div class="container product">
+        @Html.Partial("~/Views/SanPham/SanPhamStyle2Partial.cshtml", listHot)
+    </div>
+</div>
+
+

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ChickenGang_Project.Models.BinhLuan>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowComment</title>
+</head>
+
+<body>
+    <h4 style="margin-top:30px;">Bình luận cũ</h4>
+    <table class="table">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td> @item.ThanhVien.HoTen
+                    @*@Html.DisplayFor(modelItem => item.ThanhVien.HoTen)*@
+                </td>
+                <td> :   @item.NoiDung
+                    @*@Html.DisplayFor(modelItem => item.NoiDung)*@
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

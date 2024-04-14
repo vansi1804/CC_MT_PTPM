@@ -1,0 +1,102 @@
+﻿@model IEnumerable<ChickenGang_Project.Models.ThanhVien>
+
+@{
+    ViewBag.Title = "thanhvien";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+<div class="row">
+    <br />
+    <div class="col-md-12">
+    </div>
+</div>
+
+
+
+<br />
+
+<div class="mt-5">
+    <center>
+        <h2>Quản lý thành viên</h2>
+    </center>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                <div class="card">
+                    <div class="card-header">
+                        <span><i class="bi bi-table me-2"></i></span> Quản lý thành viên
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table id="example"
+                                   class="table table-striped data-table"
+                                   style="width: 100%">
+                                <thead>
+                                    <tr>
+                                        <th>
+                                            Tài khoản
+                                        </th>
+                                        <th>
+                                            Họ Tên
+                                        </th>
+                                        <th>
+                                            Địa chỉ
+                                        </th>
+                                        <th>
+                                            Email
+                                        </th>
+                                        <th>
+                                            Số Điện Thoại
+                                        </th>
+                                        <th>
+                                            Loại tài khoản
+                                        </th>
+                                        <th>
+                                            Tác vụ
+                                        </th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.TaiKhoan)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.HoTen)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.DiaChi)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.Email)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.SoDienThoai)
+                                            </td>
+                                            <td>
+                                                @if (item.LoaiAccount == "1")
+                                                {
+                                                    <text>admin</text>
+                                                }
+                                                else
+                                                {
+                                                    <text>user</text>
+                                                }
+                                            </td>
+
+                                            <td class="text-center">
+                                                @Html.ActionLink("Sửa", "Edit_ThanhVien", new { id = item.MaThanhVien }, new { @class = "btn btn-success" })
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

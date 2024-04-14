@@ -1,0 +1,801 @@
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\ChickenGang_Project.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csi.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csi.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\csi.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Console.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\vbc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\vbc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\vbc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Antlr3.Runtime.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\EntityFramework.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Newtonsoft.Json.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Helpers.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Optimization.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\WebGrease.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\EntityFramework.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Helpers.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Optimization.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Newtonsoft.Json.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\PagedList.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\PagedList.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\PagedList.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project\ChickenGang_Project\bin\PagedList.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\ChickenGang_Project.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csi.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csi.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\csi.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Console.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\vbc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\vbc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\vbc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Antlr3.Runtime.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\CaptchaMvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\EntityFramework.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Newtonsoft.Json.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\PagedList.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\PagedList.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Helpers.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Optimization.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\WebGrease.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\CaptchaMvc.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\CaptchaMvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\EntityFramework.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\PagedList.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\PagedList.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Helpers.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Optimization.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Newtonsoft.Json.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_Project-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.pdb
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Antlr3.Runtime.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Newtonsoft.Json.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.Mvc.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Helpers.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Mvc.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Optimization.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Razor.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\WebGrease.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.pdb
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.Mvc.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Helpers.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Mvc.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Optimization.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Razor.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Newtonsoft.Json.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.exe
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.exe.config
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.rsp
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.exe
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.exe.config
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.rsp
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Console.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.exe
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.exe.config
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.rsp
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+D:\lập trình web\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\ChickenGang_Project.pdb
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.exe
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.exe.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csc.rsp
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.exe
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.exe.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\csi.rsp
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Console.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.exe
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.exe.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\vbc.rsp
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Antlr3.Runtime.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Newtonsoft.Json.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.Mvc.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Helpers.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Mvc.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Optimization.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Razor.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\WebGrease.dll
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.pdb
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\CaptchaMvc.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\PagedList.Mvc.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Helpers.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Mvc.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Optimization.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.Razor.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Newtonsoft.Json.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TienPhat\Desktop\ChickenGang_31-03\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
+D:\lập trình web\DLW-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+D:\lập trình web\DLW-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+D:\lập trình web\DLW-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\ChickenGang_Project.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\ChickenGang_Project.pdb
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csc.exe
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csc.exe.config
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csc.rsp
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csi.exe
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csi.exe.config
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\csi.rsp
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Console.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\vbc.exe
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\vbc.exe.config
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\vbc.rsp
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Antlr3.Runtime.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\CaptchaMvc.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\EntityFramework.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Newtonsoft.Json.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\PagedList.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\PagedList.Mvc.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Helpers.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Mvc.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Optimization.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Razor.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\WebGrease.dll
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\CaptchaMvc.pdb
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\CaptchaMvc.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\EntityFramework.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\PagedList.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\PagedList.Mvc.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Helpers.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Mvc.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Optimization.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.Razor.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Newtonsoft.Json.xml
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+D:\lập trình web\DLW-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\ChickenGang_Project.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csi.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csi.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\csi.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Console.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\vbc.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\vbc.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\vbc.rsp
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Antlr3.Runtime.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\CaptchaMvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EntityFramework.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Newtonsoft.Json.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\PagedList.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\PagedList.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Helpers.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Mvc.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Optimization.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\WebGrease.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\CaptchaMvc.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\CaptchaMvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EntityFramework.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\PagedList.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\PagedList.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Helpers.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Mvc.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Optimization.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Newtonsoft.Json.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Facebook.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Facebook.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.Core.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.GoogleOAuth2.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Providers.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Mono.Math.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.Core.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\System.Web.Providers.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Mono.Math.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EPPlus.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EPPlus.Interfaces.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EPPlus.System.Drawing.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\EPPlus.xml
+C:\Users\NGUYEN NIEN\Desktop\CNTT\ChickenGang_project_08-04-master\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\ChickenGang_Project.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\ChickenGang_Project.pdb
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csc.exe
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csc.exe.config
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csc.rsp
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csi.exe
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csi.exe.config
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\csi.rsp
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Console.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\vbc.exe
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\vbc.exe.config
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\vbc.rsp
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Antlr3.Runtime.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\CaptchaMvc.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.Core.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.GoogleOAuth2.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EntityFramework.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EPPlus.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EPPlus.Interfaces.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EPPlus.System.Drawing.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Facebook.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Newtonsoft.Json.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\PagedList.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\PagedList.Mvc.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Helpers.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Mvc.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Optimization.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Providers.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Razor.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\WebGrease.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Mono.Math.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\CaptchaMvc.pdb
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\CaptchaMvc.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.Core.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EntityFramework.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\EPPlus.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Facebook.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\PagedList.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\PagedList.Mvc.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Providers.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Helpers.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Mvc.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Optimization.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.Razor.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Newtonsoft.Json.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\bin\Mono.Math.xml
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.dll.config
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.pdb
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csc.exe
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csc.exe.config
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csc.rsp
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csi.exe
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csi.exe.config
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\csi.rsp
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.AppContext.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Collections.Immutable.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Console.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Globalization.Calendars.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.IO.Compression.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Net.Http.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Net.Sockets.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.ValueTuple.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Xml.XPath.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\vbc.exe
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\vbc.exe.config
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\vbc.rsp
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\roslyn\VBCSCompiler.exe.config
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Antlr3.Runtime.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\CaptchaMvc.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.Core.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.GoogleOAuth2.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EntityFramework.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EntityFramework.SqlServer.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EPPlus.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EPPlus.Interfaces.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EPPlus.System.Drawing.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Facebook.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.Web.Infrastructure.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Newtonsoft.Json.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\PagedList.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\PagedList.Mvc.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Helpers.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Mvc.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Optimization.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Providers.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Razor.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.Deployment.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.Razor.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\WebGrease.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Mono.Math.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\CaptchaMvc.pdb
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\CaptchaMvc.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.AspNet.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.Core.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EntityFramework.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EntityFramework.SqlServer.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\EPPlus.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Facebook.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\PagedList.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\PagedList.Mvc.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Helpers.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Mvc.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Providers.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Razor.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.Deployment.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.WebPages.Razor.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\System.Web.Optimization.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Newtonsoft.Json.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Antlr3.Runtime.pdb
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Mono.Math.xml
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenG.61735008.Up2Date
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb

@@ -1,0 +1,27 @@
+﻿@using ChickenGang_Project.Models;
+@model IEnumerable<SanPham>
+
+<div class="product_content" style="min-height: 500px;">
+    @foreach (var item in Model.Take(6))
+    {
+        if (item.DaXoa != 1)
+        {
+            <div class="product_item-food col-md-3" style="margin-top: 10px;">
+                <div class="product_item-food-body">
+                    <img src="~/@item.HinhAnh" alt="" style="margin-bottom: 5px;">
+                    <h1 style="margin: 15px auto; text-align: center;">@item.TenSP </h1>
+                    <h1 style="margin: 15px auto; text-align: center;">(@item.DonGia VND)</h1>
+                    <div class="product_item-food-btn" style="display: flex; align-items: center; margin-top: auto;">
+                        <div class="btn col-2" style="padding: 5px 10px; display:flex; align-items: center; width: 100px;">
+                            <a href="~/SanPham/Detail/@item.MaSP" style="display: inline-block; margin: 0;">Chi tiết</a>
+                        </div>
+
+                        <div class="btn btn--order col-2" style="padding: 5px 10px; display:flex; align-items: center; width: 100px;">
+                            <a href="@Url.Action("ThemGioHang", "GioHang", new { @id = item.MaSP, @strURL = Request.Url.ToString() })" style="display: inline-block; margin: 0;">Thêm vào giỏ</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

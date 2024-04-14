@@ -1,0 +1,23 @@
+﻿@using ChickenGang_Project.Models;
+@model IEnumerable<SanPham>
+
+@{
+    ViewBag.Title = "NewFood";
+    Layout = "~/Views/Layout/DetailLayout.cshtml";
+}
+
+
+@{ 
+    IEnumerable<SanPham> listNew = (IEnumerable<SanPham>)ViewBag.listNew;
+}
+
+
+<div class="resp-tabs-container" style="margin-top:200px">
+    <center><h2>Món mới</h2></center>
+    <div class="container product">
+        @Html.Partial("~/Views/SanPham/SanPhamStyle2Partial.cshtml", listNew)
+
+    </div>
+
+</div>
+

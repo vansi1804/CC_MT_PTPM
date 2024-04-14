@@ -1,0 +1,66 @@
+﻿@model ChickenGang_Project.Models.BinhLuan
+
+@{
+    ViewBag.Title = "Feedback";
+    Layout = "~/Views/Layout/DetailLayout.cshtml";
+}
+
+<h2>Feedback</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h4>BinhLuan</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group align-content-center">
+        <label class="control-label col-md-2" for="MatKhauMoi">
+            Mật khẩu mới:
+        </label>
+
+        <div class="col-md-10">
+            <input class="form-control text-box single-line input-validation-error"
+                   data-val="true" data-val-required="Phải nhập mật khẩu mới!"
+                   id="MatKhauMoi" name="MatKhauMoi" type="password" value="" required>
+            @ViewData["NhapMKMoi"]
+        </div>
+    </div>
+
+    <div class="form-group align-content-center">
+        <label class="control-label col-md-2" for="MatKhauMoi">
+            Mật khẩu mới:
+        </label>
+
+        <div class="col-md-10">
+            <input class="form-control text-box single-line input-validation-error"
+                   data-val="true" data-val-required="Phải nhập mật khẩu mới!"
+                   id="MatKhauMoi" name="MatKhauMoi" type="password" value="" required>
+            @ViewData["NhapMKMoi"]
+        </div>
+    </div>
+
+    <div class="form-group align-content-center">
+        <label class="control-label col-md-2" for="MatKhauMoi">
+            Mật khẩu mới:
+        </label>
+
+        <div class="col-md-10">
+            <input class="form-control text-box single-line input-validation-error"
+                   data-val="true" data-val-required="Phải nhập mật khẩu mới!"
+                   id="MatKhauMoi" name="MatKhauMoi" type="password" value="" required>
+            @ViewData["NhapMKMoi"]
+        </div>
+    </div>
+
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+

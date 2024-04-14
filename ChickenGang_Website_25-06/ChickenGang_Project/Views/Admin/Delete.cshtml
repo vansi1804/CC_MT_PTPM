@@ -1,0 +1,39 @@
+﻿@model ChickenGang_Project.Models.SanPham
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+<div class="container">
+    <section class="py-5">
+        <h2 style="margin-top:20px; text-align:center">Ngừng phục vụ</h2>
+
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="row gx-4 gx-lg-5 align-items-center">
+                <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="~/@Html.DisplayFor(model => model.HinhAnh)" alt="..." /></div>
+                <div class="col-md-6">
+                    <h1 class="display-5 fw-bolder">@Html.DisplayFor(model => model.TenSP)</h1>
+                    <div class="fs-5 mb-5">
+                        <span>@Html.DisplayFor(model => model.DonGia)</span>
+                    </div>
+                    <p class="lead">@Html.DisplayFor(model => model.Mota)</p>
+                    <br />
+                    <p class="lead">@Html.DisplayFor(model => model.Mota2)</p>
+                    <br />
+                    <p class="lead">@Html.DisplayFor(model => model.Mota3)</p>
+                </div>
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        @Html.ActionLink("Trở lại", "Index", "Admin", null, new { @class = "btn btn-default", style = "padding: 10px 20px; border: 1px solid #ccc; background-color: #f0f0f0; cursor: pointer; border-radius: 5px; font-size: 16px; margin-right:100px" })
+                        <input type="submit" value="Xác nhận" class="btn btn-success" style="padding: 10px 20px; border: 1px solid #ccc; cursor: pointer; border-radius: 5px; font-size: 16px; margin-left:100px">
+                    </div>
+                }
+            </div>
+        </div>
+    </section>
+</div>
+
