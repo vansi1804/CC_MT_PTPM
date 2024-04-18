@@ -32,9 +32,7 @@ namespace ChickenGang_Project.Controllers
             List<SanPham> lstGa_quay = db.SanPhams.Where(n => n.MaLoaiSP == 3).ToList();
             List<SanPham> lstCom = db.SanPhams.Where(n => n.MaLoaiSP == 4).ToList();
             List<SanPham> lstNhe = db.SanPhams.Where(n => n.MaLoaiSP >= 5).ToList();
-
-
-
+            
             ViewBag.lst1nguoi = lst1nguoi;
             ViewBag.lstnhom = lstnhom;
             ViewBag.lstGa_quay = lstGa_quay;

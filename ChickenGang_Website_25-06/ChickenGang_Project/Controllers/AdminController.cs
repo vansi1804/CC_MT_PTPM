@@ -99,6 +99,7 @@ namespace ChickenGang_Project.Controllers
             }
             return this.Edit(id);
         }
+
         public string ProcessUpload(HttpPostedFileBase file)
         {
             if (file == null)
@@ -115,7 +116,7 @@ namespace ChickenGang_Project.Controllers
             // Combine the original file name, the tail, and the file extension
             string newFileName = Path.GetFileNameWithoutExtension(file.FileName) + "_" + tail + extension;
 
-            String url = "~/Content/images/KFC/" + newFileName;
+            String url = "Content/images/KFC/" + newFileName;
 
             // Save the file with the new file name to the specified directory
             file.SaveAs(Server.MapPath(url));

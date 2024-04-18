@@ -680,6 +680,8 @@ D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGa
 D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CopyComplete
 D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
 D:\CNTT\ChickenGang_Project_16-06-master\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
+D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.dll.config
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.dll
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\ChickenGang_Project.pdb
@@ -794,8 +796,6 @@ D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Antlr3.Runtime.
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Org.Mentalis.Security.Cryptography.xml
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\bin\Mono.Math.xml
-D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.AssemblyReference.cache
-D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.csproj.CoreCompileInputs.cache
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenG.61735008.Up2Date
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.dll
 D:\CTDT\LT-Web\ChickenGang_Website_25-06\ChickenGang_Project\obj\Debug\ChickenGang_Project.pdb

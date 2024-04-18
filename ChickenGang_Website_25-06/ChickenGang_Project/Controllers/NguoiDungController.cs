@@ -55,7 +55,7 @@ namespace ChickenGang_Project.Controllers
                 var check = db.ThanhViens.FirstOrDefault(s => s.Email == tv.Email);
                 if (check != null)
                 {
-                    ViewBag.error = "Email already exists";
+                    ViewBag.error = "Email tồn tại";
                     return View();
                 }
                 else if (String.IsNullOrEmpty(XacNhanMatKhau))
@@ -134,6 +134,10 @@ namespace ChickenGang_Project.Controllers
 
         public static string GetMD5(string str)
         {
+            if (str == null || str.Trim().Length == 0) {
+                return null; 
+            }
+
             MD5 md5 = new MD5CryptoServiceProvider();
             byte[] fromData = Encoding.UTF8.GetBytes(str);
             byte[] targetData = md5.ComputeHash(fromData);
@@ -142,7 +146,6 @@ namespace ChickenGang_Project.Controllers
             for (int i = 0; i < targetData.Length; i++)
             {
                 byte2String += targetData[i].ToString("x2");
-
             }
             return byte2String;
         }
@@ -207,12 +210,12 @@ namespace ChickenGang_Project.Controllers
         {
             var E_ThanhVien = db.ThanhViens.First(m => m.MaThanhVien == id);
 
-            var E_MatKhau = GetMD5(f["MatKhauCu"]).ToString();
+            var MatKhauCu = GetMD5(f["MatKhauCu"]);
             var MatKhauMoi = f["MatKhauMoi"];
             var XacNhanMatKhau = f["XacNhanMatKhau"];
 
             E_ThanhVien.MaThanhVien = id;
-            if (!E_ThanhVien.MatKhau.Equals(E_MatKhau))
+            if (E_ThanhVien.MatKhau != null && !E_ThanhVien.MatKhau.Equals(MatKhauCu))
             {
                 ViewData["NhapMKCu"] = "Mật khẩu không đúng!";
                 return View();
@@ -247,7 +250,7 @@ namespace ChickenGang_Project.Controllers
             var CauHoiBiMat = f["CauHoiBiMat"];
             var CauTraLoi = f["CauTraLoi"];
 
-            ThanhVien tv = db.ThanhViens.SingleOrDefault(n => n.Email == EmailCheck && n.CauTraLoi == CauTraLoi && n.CauHoi == CauHoiBiMat);
+            ThanhVien tv = db.ThanhViens.SingleOrDefault(n => n.Email == EmailCheck  && n.CauTraLoi == CauTraLoi && n.CauHoi == CauHoiBiMat);
 
             if (tv != null)
             {
@@ -314,63 +317,6 @@ namespace ChickenGang_Project.Controllers
             }
         }
 
-        //public ActionResult LoginFacebook()
-        //{
-        //    var fb = new FacebookClient();
-        //    var loginUrl = fb.GetLoginUrl(new
-        //    {
-        //        client_id = ConfigurationManager.AppSettings["FbAppId"],
-        //        client_secret = ConfigurationManager.AppSettings["FbAppSecret"],
-        //        redirect_uri = RedirectUri.AbsoluteUri,
-        //        response_type = "code",
-        //        scope = "email",
-        //    });
-
-        //    return Redirect(loginUrl.AbsoluteUri);
-        //}
-
-        //public ActionResult FacebookCallback(string code)
-        //{
-        //    var fb = new FacebookClient();
-        //    dynamic result = fb.Post("oauth/access_token", new
-        //    {
-        //        client_id = ConfigurationManager.AppSettings["FbAppId"],
-        //        client_secret = ConfigurationManager.AppSettings["FbAppSecret"],
-        //        redirect_uri = RedirectUri.AbsoluteUri,
-        //        code = code
-        //    });
-
-        //    var accessToken = result.access_token;
-        //    if (!string.IsNullOrEmpty(accessToken))
-        //    {
-        //        fb.AccessToken = accessToken;
-        //        // Get the user
-        //        dynamic me = fb.Get("me?fields=first_name,middle_name,last_name,id,email");
-        //        string email = me.email;
-        //        string userName = me.email;
-        //        string firstname = me.first_name;
-        //        string middlename = me.middle_name;
-        //        string lastname = me.last_name;
-
-
-        //        var user = new ThanhVien();
-        //        user.TaiKhoan = email;
-        //        user.Email = email;
-        //        user.LoaiAccount = null;
-        //        user.HoTen = firstname + " " + middlename + " " + lastname;
-        //        user.MaLoaiTV = 2;
-
-
-
-        //        db.Configuration.ValidateOnSaveEnabled = false;
-        //        var resultInsert = new ThanhVien().InserForFB(user);
-        //        if (resultInsert > 0)
-        //        {
-        //            Session["TaiKhoan"] = user;
-        //        }
-        //    }
-        //    return RedirectToAction("Index", "Home");
-        //}
 
 
         public ActionResult RedirectToGoogle()

@@ -9,21 +9,21 @@ namespace ChickenGang_Project.Models
 {
     public class MailInfo
     {
-        public void SendEmail(string address, string tenkh)
+        public void SendEmail(string address, string hoten)
         {
             var message = new MailMessage();
-            message.To.Add(new MailAddress(address));  // replace with valid value 
-            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  // replace with valid value
+            message.To.Add(new MailAddress(address));  
+            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  
             message.Subject = Properties.Settings.Default.MAIL_REGISTER_SUBJECT;
-            message.Body = string.Format(Properties.Settings.Default.MAIL_REGISTER_BODY, tenkh);
+            message.Body = string.Format(Properties.Settings.Default.MAIL_REGISTER_BODY, hoten);
             message.IsBodyHtml = true;
 
             using (var smtp = new SmtpClient())
             {
                 var credential = new NetworkCredential
                 {
-                    UserName = Properties.Settings.Default.MAIL_FROM,  // replace with valid value
-                    Password = Properties.Settings.Default.MAIL_PASSWORD  // replace with valid value
+                    UserName = Properties.Settings.Default.MAIL_FROM,  
+                    Password = Properties.Settings.Default.MAIL_PASSWORD  
                 };
                 smtp.Credentials = credential;
                 smtp.Host = "smtp.gmail.com";
@@ -36,21 +36,21 @@ namespace ChickenGang_Project.Models
             }
         }
 
-        public void SendEmailOrder(string address, string tenkh)
+        public void SendEmailOrder(string address, string hoten)
         {
             var message = new MailMessage();
-            message.To.Add(new MailAddress(address));  // replace with valid value 
-            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  // replace with valid value
+            message.To.Add(new MailAddress(address));  
+            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  
             message.Subject = Properties.Settings.Default.MAIL_ORDER_SUBJECT;
-            message.Body = string.Format(Properties.Settings.Default.MAIL_ORDER_BODY, tenkh);
+            message.Body = string.Format(Properties.Settings.Default.MAIL_ORDER_BODY, hoten);
             message.IsBodyHtml = true;
 
             using (var smtp = new SmtpClient())
             {
                 var credential = new NetworkCredential
                 {
-                    UserName = Properties.Settings.Default.MAIL_FROM,  // replace with valid value
-                    Password = Properties.Settings.Default.MAIL_PASSWORD  // replace with valid value
+                    UserName = Properties.Settings.Default.MAIL_FROM,  
+                    Password = Properties.Settings.Default.MAIL_PASSWORD  
                 };
                 smtp.Credentials = credential;
                 smtp.Host = "smtp.gmail.com";
@@ -66,8 +66,8 @@ namespace ChickenGang_Project.Models
         public void SendEmailForgotPassword(string address, string mk)
         {
             var message = new MailMessage();
-            message.To.Add(new MailAddress(address));  // replace with valid value 
-            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  // replace with valid value
+            message.To.Add(new MailAddress(address));  
+            message.From = new MailAddress(Properties.Settings.Default.MAIL_FROM);  
             message.Subject = Properties.Settings.Default.Mail_FORGOT_SUBJECT;
             message.Body = string.Format(Properties.Settings.Default.MAIL_FORGOTPASSWORD, mk);
             message.IsBodyHtml = true;
@@ -76,8 +76,8 @@ namespace ChickenGang_Project.Models
             {
                 var credential = new NetworkCredential
                 {
-                    UserName = Properties.Settings.Default.MAIL_FROM,  // replace with valid value
-                    Password = Properties.Settings.Default.MAIL_PASSWORD  // replace with valid value
+                    UserName = Properties.Settings.Default.MAIL_FROM,  
+                    Password = Properties.Settings.Default.MAIL_PASSWORD  
                 };
                 smtp.Credentials = credential;
                 smtp.Host = "smtp.gmail.com";

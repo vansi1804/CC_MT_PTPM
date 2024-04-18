@@ -13,9 +13,34 @@ namespace ChickenGang_Project.Controllers
         // GET: Search
         public ActionResult KQTimKiem(string sKey)
         {
-            var lstSP = db.SanPhams.Where(n => n.TenSP.Contains(sKey));
+            var dsSanPham = db.SanPhams.ToList();
+
+            string replacedVietnameseSigns = ReplaceVietnameseSigns(sKey.ToLower());
+
+            var searchResult = dsSanPham.Where(n => ReplaceVietnameseSigns(n.TenSP.ToLower()).Contains(replacedVietnameseSigns));
+
             ViewBag.Key = sKey;
-            return View(lstSP);
+            return View(searchResult);
+        }
+
+        private string ReplaceVietnameseSigns(string str)
+        {
+            if (string.IsNullOrEmpty(str))
+                return str;
+
+            str = str.ToLower();
+            
+            string[] signs = new string[] { "aeouidy", "áàạảãâấầậẩẫăắằặẳẵ", "éèẹẻẽêếềệểễ", "óòọỏõôốồộổỗơớờợởỡ", "úùụủũưứừựửữ", "íìịỉĩ", "đ", "ýỳỵỷỹ" };
+
+            for (int i = 1; i < signs.Length; i++)
+            {
+                for (int j = 0; j < signs[i].Length; j++)
+                {
+                    str = str.Replace(signs[i][j], signs[0][i - 1]);
+                }
+            }
+
+            return str;
         }
     }
 }
