@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|d:\\ctdt\\lt-web\\chickengang_website_25-06\\chickengang_project\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\search\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\search\\kqtimkiem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\d_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\d_sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\models\\mailinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\nguoidung\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\nguoidung\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\nguoidung\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\nguoidung\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\content\\adminlayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\content\\adminlayout\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\nguoidung\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\sanphamstyle1partial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\recommend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\recommend.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\newfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\newfood.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\sanpham\\hotpick.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\sanpham\\hotpick.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\thongke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\chickengang_project\\views\\layout\\homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{892997C2-4E4E-4B88-B661-53256AF2624F}|ChickenGang_Project\\ChickenGang_Project.csproj|solutionrelative:chickengang_project\\views\\layout\\homelayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:13:17.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Models\\SanPham.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Models\\SanPham.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Models\\SanPham.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:11:40.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:54:16.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:18:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:35:04.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KQTimKiem.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Search\\KQTimKiem.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Search\\KQTimKiem.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Search\\KQTimKiem.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Search\\KQTimKiem.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:27:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NguoiDungController.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\NguoiDungController.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\NguoiDungController.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Controllers\\NguoiDungController.cs",
+              "ViewState": "AQIAAD8BAAAAAAAAAAAAAP8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:50:23.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D_SanPham.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\D_SanPham.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\D_SanPham.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\D_SanPham.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\D_SanPham.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:27:32.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Web.config",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Web.config",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Web.config",
+              "RelativeToolTip": "ChickenGang_Project\\Web.config",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-15T00:44:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:38:14.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MailInfo.cs",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Models\\MailInfo.cs",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Models\\MailInfo.cs",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Models\\MailInfo.cs",
+              "RelativeToolTip": "ChickenGang_Project\\Models\\MailInfo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T14:50:23.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\Detail.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\Detail.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\Detail.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\Detail.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:54:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\NguoiDung\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\ForgotPassword.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\NguoiDung\\ForgotPassword.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:35:05.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:42:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NewFood.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\NewFood.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\NewFood.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\NewFood.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\NewFood.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:27:43.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\NguoiDung\\ChangePassword.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\ChangePassword.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\NguoiDung\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:03:59.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HotPick.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\HotPick.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\HotPick.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\HotPick.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\HotPick.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:27:42.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\NguoiDung\\DangKy.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\NguoiDung\\DangKy.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\NguoiDung\\DangKy.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAHoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:37:01.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Content\\AdminLayout\\index.html",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Content\\AdminLayout\\index.html",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Content\\AdminLayout\\index.html",
+              "RelativeToolTip": "ChickenGang_Project\\Content\\AdminLayout\\index.html",
+              "ViewState": "AQIAADEAAAAAAAAAAIA0wDUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-15T01:42:27.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Recommend.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\Recommend.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\Recommend.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\Recommend.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\Recommend.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:27:44.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SanPhamStyle1Partial.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\SanPhamStyle1Partial.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\SanPham\\SanPhamStyle1Partial.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\SanPham\\SanPhamStyle1Partial.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\SanPham\\SanPhamStyle1Partial.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:32:05.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\ThongKe\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\ThongKe\\Index.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\ThongKe\\Index.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\ThongKe\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:50:22.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T14:50:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeLayout.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Layout\\HomeLayout.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Layout\\HomeLayout.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Layout\\HomeLayout.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Layout\\HomeLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-04-13T14:50:23.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ChickenGang_Project\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\CTDT\\LT-Web\\ChickenGang_Website_25-06\\ChickenGang_Project\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "ChickenGang_Project\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAAAGoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:16:32.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

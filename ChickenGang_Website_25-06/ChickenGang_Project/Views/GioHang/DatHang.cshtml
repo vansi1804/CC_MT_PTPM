@@ -1,0 +1,266 @@
+﻿﻿@model IEnumerable<ChickenGang_Project.Models.GioHang>
+
+@{
+    ViewBag.Title = "DatHang";
+    Layout = "~/Views/Layout/DetailLayout.cshtml";
+}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css">
+
+<h2 style="font-size: 20px; margin-top: 150px;"><a href="@Url.Action("Index", "Home")">Trang chủ</a> > <a href="@Url.Action("GioHang", "GioHang")">Giỏ Hàng</a> > <a href="@Url.Action("DatHang", "GioHang")">Thanh Toán</a></h2>
+
+<div class="container">
+
+    <!-- Start row -->
+    <div class="row">
+        <!-- Start col -->
+        <div class="col-md-12 col-lg-12 col-xl-12">
+            <div class="card m-b-30" style="border:none;">
+                <div class="row justify-content-center">
+                    <div class="">
+                        <div class="cart-container">
+                            <div class="cart-head">
+                                <div class="table-responsive">
+                                    <table class="table table-borderless">
+                                        <thead>
+                                            <tr style="font-size:20px;">
+                                                <th scope="col" class="text-center" style="width:5%">STT</th>
+                                                <th scope="col" class="text-center" style="width:30%">Tên sản phầm</th>
+                                                <th scope="col" class="text-center" style="width:15%">Hình ảnh</th>
+                                                <th scope="col" class="text-center" style="width:10%">Số lượng</th>
+                                                <th scope="col" class="text-center" style="width:20%">Đơn giá</th>
+                                                <th scope="col" class="text-center" style="width:20%">Thành tiền</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var item in Model)
+
+                                            {
+                                                <tr style="font-size:20px;">
+                                                    <th scope="row" class="text-center" style="width:5%">1</th>
+                                                    <td class="text-center" style="width:30%">@Html.DisplayFor(modelItem => item.ten)</td>
+                                                    <td class="text-center" style="width:15%"><img src="~/@item.hinh" class="img-fluid" width="200" alt="product"></td>
+                                                    <td class="text-center" style="width:10%">@item.isoluong</td>
+                                                    <td class="text-center" style="width:20%">@item.giaban</td>
+                                                    <td class="text-center" style="width:20%">@item.dThanhtien</td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="cart-body">
+                                <div class="row">
+                                    <div class="col-md-12 order-2 order-lg-1 col-lg-5 col-xl-6">
+                                        <div class="order-note">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-12 order-1 order-lg-2 col-lg-7 col-xl-6">
+                                        <div class="order-total table-responsive ">
+                                            <table class="table table-borderless text-right">
+                                                <tbody style="font-size:16px; ">
+                                                    <tr>
+                                                        <td>Tổng hóa đơn :</td>
+                                                        <td>@ViewBag.TongTien VNĐ</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>Shipping :</td>
+                                                        <td>0.00 VNĐ</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="f-w-7 font-18"><h4>Thanh Toán :</h4></td>
+                                                        <td class="f-w-7 font-18"><h4>@ViewBag.TongTien VNĐ</h4></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h2 style="text-align:center">Thông tin đặt hàng</h2>
+
+@using ChickenGang_Project.Models;
+@{
+    ThanhVien kh = (ThanhVien)Session["TaiKhoan"];
+}
+@if (kh != null)
+{
+    <div style="margin: 0 auto;">
+        <table style="padding:4px; margin:0 auto">
+            @using (Html.BeginForm())
+            {
+                @Html.ValidationSummary(true)
+
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px;">Họ tên khách hàng: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập họ và tên!"
+                               placeholder="Nhập họ và tên"
+                               id="hoten" name="hoten" type="text" value="@kh.HoTen" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Email: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập email!"
+                               placeholder="Nhập emal"
+                               id="email" name="email" type="email" value="@kh.Email" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Địa chỉ: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập địa chỉ!"
+                               placeholder="Nhập địa chỉ"
+                               id="diachigiao" name="diachigiao" type="text" value="@kh.DiaChi" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Số điện thoại: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập số điện thoại!"
+                               placeholder="Nhập số điện thoại"
+                               id="sdt2" name="sdt2" type="text" value="@kh.SoDienThoai" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Ngày đặt: </td>
+                    <td style="font-size: 16px">
+                        <input type="date" id="NgayDat2" name="NgayDat2" disabled value="@DateTime.Now.ToString("yyyy-MM-dd")" style="font-weight: bold; font-size: 16px;" />
+                    </td>
+                </tr>
+                <tr style="height:40px; margin-top:10px">
+                    <td style="font-weight: bold; font-size:16px">Ngày giao: </td>
+                    <td style="font-weight: bold; font-size: 16px">
+                        <input type="date" id="NgayGiao2" name="NgayGiao2" required value="@DateTime.Now.ToString("yyyy-MM-dd")" style="font-weight: bold; font-size:16px;" />
+                    </td>
+                </tr>
+
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size: 20px">
+                        <div class="cart-footer text-right">
+                            <div style="text-align:left">
+                                <p>Chọn phương thức thanh toán</p>
+                                <input type="radio" id="momo" name="pay" value="MoMo" checked>
+                                <label for="momo">Thanh toán bằng ví MoMo</label><br>
+                                <input type="radio" id="cod" name="pay" value="COD">
+                                <label for="cod">Thanh toán khi nhận hàng</label>
+                            </div>
+                        </div>
+                        <input type="submit" value="Xác nhận" class="btn btn-success" style="font-size:16px" />
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}
+else
+{
+    <table style="padding:4px; margin:0 auto">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary(true)
+
+            <tr style="height:40px">
+                <td style="font-weight: bold; font-size:16px;">Họ tên khách hàng: </td>
+                <td style="font-size: 16px">
+                    <input class="form-control text-box single-line input-validation-error"
+                           data-val="true" data-val-required="Phải nhập họ và tên!"
+                           placeholder="Nhập họ và tên"
+                           id="tenkh" name="tenkh" type="text" required>
+                </td>
+            </tr>
+            <tr style="height:40px">
+                <td style="font-weight: bold; font-size:16px">Email: </td>
+                <td style="font-size: 16px">
+                    <input class="form-control text-box single-line input-validation-error"
+                           data-val="true" data-val-required="Phải nhập emal!"
+                           placeholder="Nhập email"
+                           id="email" name="emal" type="email" required>
+                </td>
+            </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Địa chỉ: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập địa chỉ!"
+                               placeholder="Nhập địa chỉ"
+                               id="diachigiao" name="diachigiao" type="text" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Số điện thoại: </td>
+                    <td style="font-size: 16px">
+                        <input class="form-control text-box single-line input-validation-error"
+                               data-val="true" data-val-required="Phải nhập số điện thoại!"
+                               placeholder="Nhập số điện thoại"
+                               id="sdt" name="sdt" type="text" required>
+                    </td>
+                </tr>
+                <tr style="height:40px">
+                    <td style="font-weight: bold; font-size:16px">Ngày đặt: </td>
+                    <td style="font-size: 16px">
+                        <input type="date" id="NgayDat"  name="NgayDat" disabled value="@DateTime.Now.ToString("yyyy-MM-dd")" style="font-weight: bold; font-size: 16px;" />
+                    </td>
+                </tr>
+                <tr style="height:40px; margin-top:10px">
+                    <td style="font-weight: bold; font-size:16px">Ngày giao: </td>
+                    <td style="font-size: 16px">
+                        <input type="date" id="NgayGiao" name="NgayGiao" required value="@DateTime.Now.ToString("yyyy-MM-dd")" style="font-weight: bold; font-size:16px;" />
+                    </td>
+                </tr>
+
+                <tr class="cart-footer text-left" style="height:40px; font-weight: bold; font-size: 20px">
+                    <td>
+                        <div class="cart-footer text-right">
+                            <div style="text-align:left">
+                                <p>Chọn phương thức thanh toán</p>
+                                <input type="radio" id="momo" name="pay" value="MoMo" checked>
+                                <label for="momo">Thanh toán bằng ví MoMo</label><br>
+                                <input type="radio" id="cod" name="pay" value="COD">
+                                <label for="cod">Thanh toán khi nhận hàng</label>
+                            </div>
+                        </div>
+                        <input type="submit" value="Xác nhận" class="btn btn-success" id="btnDatHang" />
+                    </td>
+                </tr>
+        }
+    </table>
+}
+
+<script>
+    var ngayDatInput = document.getElementById("NgayDat");
+    var ngayGiaoInput = document.getElementById("NgayGiao");
+    var ngayDatInput2 = document.getElementById("NgayDat2");
+    var ngayGiaoInput2 = document.getElementById("NgayGiao2");
+
+    ngayGiaoInput.addEventListener("change", function() {
+        var ngayDat = new Date(ngayDatInput.value);
+        var ngayGiao = new Date(ngayGiaoInput.value);
+
+        if (ngayGiao < ngayDat) {
+            ngayGiaoInput.value = ngayDatInput.value;
+        }
+    });
+
+    ngayGiaoInput2.addEventListener("change", function () {
+        var ngayDat = new Date(ngayDatInput2.value);
+        var ngayGiao = new Date(ngayGiaoInput2.value);
+
+        if (ngayGiao < ngayDat) {
+            ngayGiaoInput2.value = ngayDatInput2.value;
+        }
+    });
+</script>

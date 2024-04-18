@@ -1,0 +1,124 @@
+﻿@using ChickenGang_Project.Models;
+<link rel="stylesheet" href="~/Content/css/font-awesome.css"> <!-- Font-Awesome-Icons-CSS -->
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+<div class="top-left">
+    <div class="top-icons">
+        <ul>
+            @Html.Action("GioHangPartial", "GioHang")
+            @if (Session["TaiKhoan"] == null)
+            {
+                <li><a href="#" onclick="document.getElementById('id01').style.display='block'">Đăng nhập </a></li>
+                <li><a href="~/NguoiDung/DangKy">Đăng ký</a></li>
+
+            }
+            else
+            {
+                ThanhVien tv = (ThanhVien)Session["TaiKhoan"];
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Chào @tv.HoTen <i class="fa-solid fa-caret-down"></i>
+                    </a>
+                    <div class="dropdown-menu " aria-labelledby="navbarDropdown" style="background-color:#000; min-width:200px;">
+                        <a class="dropdown-item" href="@Url.Action("Edit", "NguoiDung", new { @id = tv.MaThanhVien })" style="font-size:20px; margin: 16px;">Thay đổi thông tin</a>
+                        <br />
+                        <a class="dropdown-item" href="@Url.Action("ChangePassword", "NguoiDung",new { @id = tv.MaThanhVien })" style="font-size:20px; margin: 16px;">Đổi mật khẩu</a>
+
+                        <br />
+                        <a class="dropdown-item" href="@Url.Action("DangXuat", "NguoiDung")" style="font-size: 20px; margin: 16px;">Đăng xuất</a>
+                    </div>
+                </li>
+            }
+
+        </ul>
+    </div>
+    <div class="top-nav">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <!-- navbar-header -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <nav class="linkEffects linkHoverEffect_2">
+                    <ul>
+                        <li><a href="~/Home/Index" data-link-alt="Trang chủ" class=""><span>Trang chủ</span></a></li>
+                        <li><a href="~/SanPham/D_SanPham" data-link-alt="Sản phẩm"><span>Sản phẩm</span></a></li>
+                        <li><a href="~/SanPham/NewFood" data-link-alt="Món mới"><span>Món mới</span></a></li>
+                        @*<li><a href="~/Home/AboutUs" data-link-alt="About Us"><span>About Us</span></a></li>*@
+                        @*<li><a href="#contact" data-link-alt="Liên hệ" class="scroll"><span>Liên hệ</span></a></li>*@
+                    </ul>
+                </nav>
+            </div>
+            <div class="clearfix"> </div>
+        </nav>
+    </div>
+    <div class="clearfix"> </div>
+    <!-- //navigation -->
+</div>
+
+<!-- Form Login -->
+
+<div id="id01" class="modal">
+    <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal"></span>
+
+    @using (Ajax.BeginForm("DangNhap", "NguoiDung", new AjaxOptions { HttpMethod = "Post", InsertionMode = InsertionMode.Replace, UpdateTargetId = "ThongBao2" }))
+    {
+        <div class="modal-content animate" style="width: 100%; max-width: 400px;">
+
+            <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">X</button>
+
+            <div class="imgcontainer">
+                <p>Đăng nhập</p>
+            </div>
+
+            <div class="container" style="width: 100%;">
+                <label for="uname" style="width: 100%;"><b>Tên đăng nhập</b></label>
+                <input type="text" placeholder="Enter Username" name="uname" style="width: 100%;" required>
+
+                <label for="psw" style="width: 100%;"><b>Mật khẩu</b></label>
+                <input type="password" placeholder="Enter Password" name="psw" style="width: 100%;" required>
+
+                <center><h3 style="color:red; width: 100%;" id="ThongBao2"></h3></center>
+
+                <button type="submit" id="btnDangNhap" style="width: 100%;">Đăng nhập</button>
+            </div>
+
+            <div class="container social-buttons" style="width: 100%;">
+                @*<div class="social-button">
+                    <button type="button" style="background-color: #042baa;">
+                        <a href="~/NguoiDung/LoginFacebook" style="text-decoration:none; color:#fff;">
+                            <i class="fa fa-facebook" style="font-size: 20px; margin: 5px;"></i>
+                            Đăng nhập với Facebook
+                        </a>
+                    </button>
+                </div>*@
+
+                <div class="social-button" style="width: 100%;">
+                    <button type="button" style="background-color: #FF7F00;">
+                        <a href="~/NguoiDung/RedirectToGoogle" style="text-decoration:none; color:#fff;">
+                            <i class="fa fa-google-plus" style="font-size: 20px; margin: 5px;"></i>
+                            Đăng nhập với Google
+                        </a>
+                    </button>
+                </div>
+            </div>
+
+
+            <div class="container" style="background-color:#f1f1f1; width: 100%;" >
+                @*<button type="button" style="background-color: #04AA6D;">
+                    <a href="~/NguoiDung/DangKy" style="text-decoration:none; color:#fff">Đăng ký</a>
+                </button>*@
+                <span class="psw"><a href="~/NguoiDung/ForgotPassword">Quên mật khẩu?</a></span>
+            </div>
+
+        </div>
+    }
+</div>
+
+

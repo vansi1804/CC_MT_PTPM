@@ -1,0 +1,87 @@
+﻿@model IEnumerable<ChickenGang_Project.Models.SanPham>
+
+@{ ViewBag.Title = "Index";
+                Layout = "~/Views/Layout/AdminLayout.cshtml"; }
+
+
+<div class="mt-5">
+    <center>
+
+        <h2>
+            Quản lý sản phẩm
+        </h2>
+    </center>
+    <div class="row">
+        <div class="col-md-12 mb-3">
+            <div class="card">
+                <div class="card-header">
+                    <span><i class="bi bi-table me-2"></i></span> Quản lý sản phẩm sắp hết
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table id="example"
+                               class="table table-striped data-table"
+                               style="width: 100%">
+                            <thead>
+                                <tr>
+
+                                    <th>
+                                        Tên sản phẩm
+                                    </th>
+                                    <th>
+                                        Đơn giá
+                                    </th>
+                                    <th>
+                                        Hình ảnh
+                                    </th>
+                                    <th>
+                                        Số lượng tồn
+                                    </th>
+                                    <th>
+                                        Tác vụ
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+
+
+                                @foreach (var item in Model)
+                                {
+                    <tr>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenSP)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.DonGia)
+                        </td>
+                        <td>
+                            <img src="\@Html.DisplayFor(modelItem => item.HinhAnh)" width="200" />
+                        </td>
+                        <td>
+                            @if (item.DaXoa != 1)
+                            {
+
+                                @Html.DisplayFor(modelItem => item.SoLuongTon)
+                            }
+                            else
+                            {
+                                <p style="color:red">Ngừng phục vụ</p>
+                            }
+                        </td>
+                        <td>
+                            @Html.ActionLink("Cập nhật", "Edit", "Admin", new { id = item.MaSP }, new { @class = "btn btn-success" })
+
+                        </td>
+                    </tr>}
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

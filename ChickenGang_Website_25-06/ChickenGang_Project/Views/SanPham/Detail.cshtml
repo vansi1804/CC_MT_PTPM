@@ -1,0 +1,75 @@
+﻿@model ChickenGang_Project.Models.SanPham
+@*@model IEnumerable<SanPham>*@
+
+@{ ViewBag.Title = "Detail";
+    Layout = "~/Views/Layout/DetailLayout.cshtml"; }
+
+
+<div class="container">
+    <section class="py-5" style="margin-top:130px ;min-height:500px;">
+        <p style="font-size: 20px; margin-top: 170px;"><a href="@Url.Action("Index", "Home")">Trang chủ</a> > <a href="@Url.Action("D_SanPham", "SanPham")">Sản phẩm</a> > @Html.DisplayFor(model => model.TenSP)</p>
+        <div class="container px-4 px-lg-5 my-5">
+            <div class="row gx-4 gx-lg-5 align-items-center">
+                <div class="col-md-6"><img class="card-img-top mb-5 mb-md-0" src="~/@Html.DisplayFor(model => model.HinhAnh)" alt="..." width="500px;" /></div>
+                <div class="col-md-6">
+
+                    <h1 class="display-5 fw-bolder">@Html.DisplayFor(model => model.TenSP)</h1>
+                    <div class="fs-5 mb-5">
+                        <p class="lead">@Html.DisplayFor(model => model.DonGia) </p>
+                    </div>
+                    <p class="lead">@Html.DisplayFor(model => model.Mota)</p>
+                    <p class="lead">@Html.DisplayFor(model => model.Mota2)</p>
+                    <p class="lead">@Html.DisplayFor(model => model.Mota3)</p>
+                    <p class="lead">Số lượng còn lại: @Html.DisplayFor(model => model.SoLuongTon)</p>
+                    <p class="lead">Số lượng đã bán: @Html.DisplayFor(model => model.SoLanMua)</p>
+                    @if (Model.DaXoa.Equals(1))
+                    {
+                        <br />
+                        <h3 class="lead" style="color:red">Sản phẩm đã ngưng phục vụ</h3>
+                        <div class="d-flex" style="display:flex">
+                            @*<input class="form-control text-center me-3" id="txtSolg" name ="txtSolg" type="number" value="1" style="width: 5rem; margin: 0 16px 0 0" />*@
+
+                            <a href="@Url.Action("ThemGioHang", "GioHang", new { @id = Model.MaSP, @strURL = Request.Url.ToString() })" class="btn btn-success flex-shrink-0 disabled" type="button" style="padding:6px; margin:0 16px">
+                                <i class="fa-solid fa-cart-plus me-1"></i>
+                                Thêm vào giỏ
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="d-flex" style="display:flex">
+                            @*<input class="form-control text-center me-3" id="txtSolg" name ="txtSolg" type="number" value="1" style="width: 5rem; margin: 0 16px 0 0" />*@
+
+                            <a href="@Url.Action("ThemGioHang", "GioHang", new { @id = Model.MaSP, @strURL = Request.Url.ToString() })" class="btn btn-success flex-shrink-0" type="button" style="padding:6px; margin:0 16px">
+                                <i class="fa-solid fa-cart-plus me-1"></i>
+                                Thêm vào giỏ
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+@using (Html.BeginForm("CreateComment", "BinhLuan", new { @id = Model.MaSP }))
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Bình Luận</h4>
+        <form role="form">
+            <div class="form-group">
+                <textarea class="form-control" rows="5" required name="NoiDung"></textarea>
+            </div>
+            @ViewData["RequiredLogin"]
+            <button type="submit" class="btn btn-success">Xác nhận</button>
+        </form>
+    </div>
+
+}
+    @{
+        Html.RenderAction("ShowComment", "BinhLuan", new { id = Model.MaSP });
+        Html.RenderAction("Recommend", "SanPham");
+    }

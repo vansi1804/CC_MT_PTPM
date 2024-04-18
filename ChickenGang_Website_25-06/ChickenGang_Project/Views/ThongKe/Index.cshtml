@@ -1,0 +1,171 @@
+﻿@model IEnumerable<ChickenGang_Project.Models.DonDatHang>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+
+<div class="mt-4">
+    <Center>
+        <h2 class="m-3">
+            Thống kê
+        </h2>
+    </Center>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3 mb-3">
+                <div class="card bg-primary text-white h-100">
+                    <div class="card-body py-5">
+                        Tổng thành viên
+                        <h3>@ViewBag.TongThanhVien</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card bg-warning text-dark h-100">
+                    <div class="card-body py-5">
+                        Tổng doanh thu
+                        @{ decimal TongDoanhThu = decimal.Parse(ViewBag.TongDoanhThu.ToString());}
+                        <h3>@TongDoanhThu.ToString("0,000") VNĐ</h3>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card bg-warning text-dark h-100">
+                    <div class="card-body py-5">
+                        Tổng doanh thu tháng @DateTime.Now.Month
+                        @{ decimal ThongKeTongDoanhThuThang = decimal.Parse(ViewBag.TongDoanhThuThang.ToString());}
+                        <h3>@ThongKeTongDoanhThuThang.ToString("0,000") VNĐ</h3>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div class="card bg-success text-white h-100">
+                    <div class="card-body py-5">
+                        Tổng đơn hàng
+                        <h3>@ViewBag.TongDonHang</h3>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <div class="card bg-success text-white h-100">
+                    <div class="card-body py-5">
+                        Online
+                        <h3>@ViewBag.SoNguoiDangOnline</h3>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-md-3 mb-3">
+                <div class="card bg-danger text-white h-100">
+                    <div class="card-body py-5">
+                        Visit
+                        <h3>@ViewBag.SoNguoiTruyCap</h3>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 mb-3">
+                <div>
+                    <button type="button" class="btn btn-info" onclick="location.href='@Url.Action("ExportToExcel", "ThongKe")'" style="padding:60.5px;">Xuât file báo cáo</button>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 mb-3">
+                <div class="card">
+                    <div class="card-header">
+                        <span><i class="bi bi-table me-2"></i></span> Quản lý đơn hàng
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table id="example"
+                                   class="table table-striped data-table"
+                                   style="width: 100%">
+                                <thead>
+                                    <tr>
+
+                                        <th>
+                                            Ngày đặt
+                                        </th>
+                                        <th>
+                                            Ngày giao hàng
+                                        </th>
+                                        <th>
+                                            Tên khách hàng
+                                        </th>
+                                        <th>
+                                            Địa chỉ giao hàng
+                                        </th>
+                                        <th>
+                                            Tình trạng giao hàng
+                                        </th>
+                                        <th>
+                                            Tình trạng thanh toán
+                                        </th>
+                                        <th>
+                                            Xem chi tiết
+                                        </th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.NgayDat)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.NgayGiao)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.KhachHang.TenKH)
+                                            </td>
+                                            <td>
+                                                @Html.DisplayFor(modelItem => item.DiaChiGiaoHang)
+                                            </td>
+                                            <td>
+                                                @if (item.TinhTrangGiaoHang == true)
+                                                {
+                                                    <button type="button" class="btn btn-outline-success" disabled="disabled">Đã giao</button>
+                                                }
+                                                else if (item.DaThanhToan == false)
+                                                {
+                                                    <button type="button" class="btn btn-outline-danger" disabled="disabled">Chưa giao</button>
+                                                }
+                                                else
+                                                {
+                                                    @Html.ActionLink("Chưa giao", "UpdateTrangThaiGiaoHang", new { id = item.MaDDH }, new { @class = "btn btn-outline-danger" })
+                                                }
+                                            </td>
+                                            <td>
+                                                @if (item.DaThanhToan == true)
+                                                {
+                                                    <button type="button" class="btn btn-outline-success" disabled="disabled">Đã thanh toán</button>
+                                                }
+                                                else
+                                                {
+                                                    @Html.ActionLink("Chưa thanh toán", "Update", new { id = item.MaDDH }, new { @class = "btn btn-outline-danger" })
+                                                }
+                                            </td>
+                                            <td>
+                                                @Html.ActionLink("Chi tiết", "ChiTietDonHang", new { id = item.MaDDH }, new { @class = "btn btn-success" })
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
