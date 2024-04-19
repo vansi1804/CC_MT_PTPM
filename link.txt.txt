@@ -1,0 +1,3 @@
+figma:https://www.figma.com/file/DCA3dwjA0B1eMOlrwQ57pt/App-order-pizza?type=design&node-id=0-1&mode=design&t=YaHMZXRCzoN01TZ7-0
+jira:https://vanthang27009.atlassian.net/jira/software/projects/FAS/boards/2/backlog?epics=visible
+github:https://github.com/vansi1804/CC_MT_PTPM
